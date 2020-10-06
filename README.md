@@ -3,9 +3,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/ddelizia/channelify.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ddelizia/channelify/stargazers/) 
 [![GitHub forks](https://img.shields.io/github/forks/ddelizia/channelify.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ddelizia/channelify/network/) 
 
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ddelizia/channelify)](https://pkg.go.dev/github.com/ddelizia/channelify)
 [![Test Actions Status](https://github.com/ddelizia/channelify/workflows/Test/badge.svg)](https://github.com/ddelizia/channelify/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ddelizia/channelify)](https://goreportcard.com/report/github.com/ddelizia/channelify)
-[![Go Doc](https://godoc.org/github.com/channelify/channelify?status.svg)](https://godoc.org/github.com/ddelizia/channelify) 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
