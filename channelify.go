@@ -1,7 +1,6 @@
 package channelify
 
 import (
-	"fmt"
 	"reflect"
 )
 
@@ -29,7 +28,6 @@ func Channelify(fn interface{}) interface{} {
 
 	makeFun := reflect.MakeFunc(newFuncType, func(incoming []reflect.Value) (outgoing []reflect.Value) {
 
-		fmt.Println(len(incoming), len(outs))
 		var channels []reflect.Value
 		for _, o := range outs {
 			channels = append(channels, reflect.MakeChan(o, 0))
